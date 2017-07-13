@@ -18,10 +18,10 @@ for ping in range(1,int(aralik)):
 
 print "*************************************************************************"
 for adress in range(len(lstaktif)):
-    print lstaktif[adress] , ": Aktif"
+    print lstaktif[adress] , ": is Online"
 print "-------------------------------------------------------------------------"
 for adress in range(len(lstpasif)):
-    print lstpasif[adress] , ": Pasif"
+    print lstpasif[adress] , ": is Offline"
 
 
 
